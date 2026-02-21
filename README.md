@@ -1,3 +1,3 @@
 # demo
 my first Git repository. <br>
-author - Anuradha Aurchi
+author - Anuradha (Aurchi)
